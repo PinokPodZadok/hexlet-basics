@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-basics",
+  "version": "1.0.0",
+  "description": "мое первое изменение и последующий коммит  это изменение  на сайте для обратного процесса",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinokPodZadok/hexlet-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PinokPodZadok/hexlet-basics/issues"
+  },
+  "homepage": "https://github.com/PinokPodZadok/hexlet-basics#readme",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "lodash": "^4.17.15"
+  }
+}
